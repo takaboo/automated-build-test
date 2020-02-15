@@ -1,2 +1,2 @@
 FROM docker-samples/static-site
-ENV AUTOHR="Takamitsu Kobayashi"
+ENV AUTOHR="T.Kobayashi"
